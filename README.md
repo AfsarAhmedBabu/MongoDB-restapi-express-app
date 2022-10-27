@@ -1,10 +1,10 @@
 # MongoDB-restapi-express-app
 
-Configure MongoDB database: 
+Steps to Configure MongoDB database: 
 
 Go to https://account.mongodb.com/account/login (register and/or login)
 
-create a database (Free Shared Cluster)
+Create a database (Free Shared Cluster)
 
 Choose username and the password
 
